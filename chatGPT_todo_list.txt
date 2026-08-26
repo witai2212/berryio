@@ -1,14 +1,13 @@
 chatGPT ToDo list
+Date: 2026-08-26 | Revision: 1
 
 open tasks:
-* Task 1000: Weboberfläche
-  ** weboberfläche komplette auf "bootstrap" ändern, nicht nur hauptansicht
-  ** bootstrap lokal, wenn es geht, ansonsten per internet
-  ** bisheriges farbscheme nciht nötig, vollständig bodernes dashboard design
-
 * Task 1001: GPIO Konfiguration
   ** wenn ich das richtig sehe, ist das momentan noch hard codiert in php datei. das sollte jetzt dynamisch über oberfläche möglich sein.
 
   _________________________________________________________________________________________________________________________________________
   
 closed tasks:
+* Task 1000: Weboberfläche
+  ** komplette Weboberfläche auf lokales Bootstrap 5.3.8 umgestellt
+  ** vollständig neues, responsives Dashboard-Design umgesetzt
