@@ -1,4 +1,11 @@
 
+<?
+/*------------------------------------------------------------------------------
+  BerryIO GPIO Status Page
+  Date: 2026-08-26 | Revision: 2
+------------------------------------------------------------------------------*/
+?>
+
 <div class="panel">
 
   <h2>GPIO PINS</h2>
@@ -35,8 +42,8 @@
   <h2>HINTS AND TIPS</h2>
 
   <p class="left">
-    You can name and add/remove GPIO pins on this page by editing the file <?=h(SETTINGS)?>gpio.php<br />
-    If you move your SD card between Pi models (for example from a B to a B+) you will need to edit this file to enable the extra GPIO pins.
+    Pin names, available GPIO pins and display settings can be changed on the
+    <a href="/gpio_config">GPIO configuration page</a>.
   </p>
 
   <p class="left">

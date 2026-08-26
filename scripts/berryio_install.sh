@@ -1,4 +1,6 @@
 #!/bin/bash
+# BerryIO installer
+# Date: 2026-08-26 | Revision: 2
 # BerryIO setup script
 
 # Make sure this script is being run by root
@@ -125,6 +127,8 @@ until [[ "$gpioConfigured" =~ ^[yY]$ || -z "$gpioConfigured" ]]; do
 done
 
 cp "/usr/share/berryio/default_config/berryio/gpio.$GPIOConfig.example.php" /etc/berryio/gpio.php || { echo -e "Install failed!" 1>&2; exit 1; }
+chgrp www-data /etc/berryio/gpio.php || { echo -e "Install failed!" 1>&2; exit 1; }
+chmod 664 /etc/berryio/gpio.php || { echo -e "Install failed!" 1>&2; exit 1; }
 
 echo -e "\nInstall successful!"
 echo -e "Finish the configuration as described in /usr/share/berryio/INSTALL.README.txt"
