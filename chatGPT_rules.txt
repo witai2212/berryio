@@ -6,5 +6,6 @@ short answers, please. Kein Geschwafel
 every newly transmitted file to github shall contain date and a revision in a comment.
 nach fertigstellung/änderung, immer neue odergeänderte dateien als zip zur verfügung stellen.
 nach fertigstellung änderung direkt auch nach github übertragen
+nach beendigung eines Task aus to do liste, bitte to do list aktualisieren mit hochzählen der revision.
 
 github URL: https://github.com/witai2212/berryio
