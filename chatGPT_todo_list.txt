@@ -1,12 +1,17 @@
 chatGPT ToDo list
-Date: 2026-08-26 | Revision: 2
+Date: 2026-08-26 | Revision: 3
 
 open tasks:
-* Task 1002: installatin scripts
-  ** prüfen ob installations skripte mit den letzten github update funktionieren. Ggf. aktualisieren.
 
 
 closed tasks:
+* Task 1002: Installationsskripte
+  ** Installation und Update mit einem Skript umgesetzt
+  ** Raspberry Pi OS Bullseye und Bookworm werden geprüft und unterstützt
+  ** bestehende Einstellungen unter /etc/berryio und /etc/msmtprc bleiben bei Updates erhalten
+  ** PHP-Konfiguration wird passend zur installierten PHP-Version angelegt
+  ** Repository-Quelle auf witai2212/berryio korrigiert
+
 * Task 1001: GPIO Konfiguration
   ** separate Konfigurationsseite für GPIO-Pins umgesetzt
   ** Pins können hinzugefügt, entfernt und umbenannt werden
