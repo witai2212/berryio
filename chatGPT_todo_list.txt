@@ -2,6 +2,10 @@ chatGPT ToDo list
 Date: 2026-08-26 | Revision: 2
 
 open tasks:
+* Task 1002: installatin scripts
+  ** prüfen ob installations skripte mit den letzten github update funktionieren. Ggf. aktualisieren.
+
+
 closed tasks:
 * Task 1001: GPIO Konfiguration
   ** separate Konfigurationsseite für GPIO-Pins umgesetzt
