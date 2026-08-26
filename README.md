@@ -15,9 +15,9 @@ BerryIO
 
 ### Getting Started
 
-* [Installation Instructions](https://github.com/NeonHorizon/berryio/blob/master/INSTALL.README.txt)
+* [Installation Instructions](https://github.com/witai2212/berryio/blob/master/INSTALL.README.txt)
 * [Screenshots](https://plus.google.com/u/0/photos/109352235257103413028/albums/5786226385146681521)
-* [Contributing Code](https://github.com/NeonHorizon/berryio/blob/master/CONTRIBUTING_CODE.README.txt)
+* [Contributing Code](https://github.com/witai2212/berryio/blob/master/CONTRIBUTING_CODE.README.txt)
 
 ### Project Details
 
