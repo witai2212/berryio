@@ -94,7 +94,7 @@ sudo apt update
 sudo apt upgrade
 
 // Download and run the latest setup script
-wget https://github.com/NeonHorizon/berryio/raw/master/scripts/berryio_install.sh
+wget https://github.com/witai2212/berryio/raw/master/scripts/berryio_install.sh
 chmod +x berryio_install.sh
 sudo ./berryio_install.sh
 
